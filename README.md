@@ -1,2 +1,4 @@
 # Project_SCP
-No, This is not the foundation SCP stand for Scratch. Coding. Protocol 
+Scratch Coding Protocol
+# Instructions
+  uhhh i havent made a documentation just wait i guess 🫡
