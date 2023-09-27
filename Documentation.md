@@ -1,3 +1,8 @@
 # ---------------------------------------------- Basics -------------------------------------------------
-
-In Order to Properly type a command or function you need to always put a semi-colon at the end, not doing this will result in error because of the way the program reads the code
+                                           **Code Formating**
+Proper Coding Formating Concists of a Action 
+```PrintScr```, 
+and/or a argument 
+```([x, y], "Hello Scratch)```
+then a semicolon so the final product of a line of code should look like this:
+```PrintScr([0,0], "Hello Scratch")```
