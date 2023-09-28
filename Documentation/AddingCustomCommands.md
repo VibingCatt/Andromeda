@@ -20,4 +20,4 @@ then add the if statement in the execute block
 
 ```if command = [index num]```
 
-then just put the code inside
+then just put any code you need inside of the if statement
