@@ -1,4 +1,2 @@
 # Project_SCP
-Scratch Coding Protocol
-# Documentation
-  uhhh i havent made a documentation just wait i guess 🫡
+Uses Html, Javascript, and css code to create a semi desktop enviorment
