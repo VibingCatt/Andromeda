@@ -1,6 +1,0 @@
-Theme:  {
-  type: "dark",
-  backround: 1,
-  UI: 1,
-  Colors: ["dark_blue", "dark_purple", "black", "gray"]
-}
