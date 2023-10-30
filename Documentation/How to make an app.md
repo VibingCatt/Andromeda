@@ -9,3 +9,7 @@ Step 3 upload the zip files to a github page or some other file hosting website
 Step 4 Go to the andromeda **COMPILED** file and submit the app data
 
 Step 5 Refresh and check the app store to see if it worked if it didnt take the app down (IF WE SEE YOU HAVE A GLITCHED APP WE WILL BAN YOU)
+
+
+
+look at the example app for help ---> RestartPC.zip
