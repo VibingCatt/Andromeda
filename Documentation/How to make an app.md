@@ -1,6 +1,6 @@
 ### How to make a custom app
 
-Step 1 create the app using the andromeda file and the penguin mod editor to create the app and all of its sprite
+Step 1 create the app using the andromeda file and the penguin mod editor to create the app and all of its sprite (make sure the the icon is going to the storage variable x and y 
 
 Step 2 download all of the sprites and zip them up
 
