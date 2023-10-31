@@ -10,12 +10,14 @@ Please feel free to make your own version of it
 ### What are we working on
 These are the things im currently working on when it comes to this project
 
+
+
 ```
-1: Package Manager
-2: Custom Themes
-3: File Manager
+1: Package Manger (Finished)
+2: Custom Themes 
+3: File Manager (Working On)
 4: Editing of the Andromeda code in andromeda
 ```
 
-### Why do i do this
-cause i want to 
+### Releases
+<https://github.com/VibingCatt/Andromeda/Releases/>
