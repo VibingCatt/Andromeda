@@ -23,4 +23,4 @@ These are the things im currently working on when it comes to this project
 <https://github.com/VibingCatt/Andromeda/releases/>
 
 ### Documentation
-<https://vibingcatt.github.io/Andromdea/Documentation/Documentation.md>
+<https://vibingcatt.github.io/Andromeda/Documentation/Documentation.md>
