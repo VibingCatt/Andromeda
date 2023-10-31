@@ -18,7 +18,7 @@ get the direct download link so is your own github make a github pages website a
 
 Https://username.github.io/name.zip
 ```
-Step 4 Go to andromeda and load the app
+Step 3 Go to andromeda and load the app
 ```
 Go to andromeda
 - Appstore
