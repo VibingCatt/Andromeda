@@ -17,6 +17,7 @@ These are the things im currently working on when it comes to this project
 2: Custom Themes 
 3: File Manager (Working On)
 4: Editing of the Andromeda code in andromeda
+5. Bug fixes for messenger (currently dosent work)
 ```
 
 ### Releases
