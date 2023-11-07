@@ -13,11 +13,10 @@ These are the things im currently working on when it comes to this project
 
 
 ```
-1: Package Manger (Finished)
-2: Custom Themes 
-3: File Manager (Working On)
-4: Editing of the Andromeda code in andromeda
-5. Bug fixes for messenger (currently dosent work)
+1: Custom Themes 
+2: Editing of the Andromeda code in andromeda
+3. Private Servers for andromdea messenger
+4. CLI
 ```
 
 ### Releases
