@@ -28,4 +28,4 @@ If its bugged go back into the appstore
 That should delete it
 We are currently working on a library for the community apps
 ```
-EXAMPLE APP ---> <https://vibingcatt.github.io/Examples/Example.zip>
+EXAMPLE APP ---> <https://vibingcatt.github.io/Examples/AppStore__Example App.zip>
